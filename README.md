@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Roshanlal Bahetwar</h1>
-<h3 align="center">A Passionate Python Data Scientist from India</h3>
+<h3 align="center">Intrested in AI</h3>
 <img align = "right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/robot-humanoid-using-tablet-computer-big-data-analytic-using-ai-thinking-brain-artificial-intelligence-machine-learning-214269755.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanbahetwar&label=Profile%20views&color=0e75b6&style=flat" alt="roshanbahetwar" /> </p>
 
-- 🌱 I’m currently learning **AI(Artificial Intelligence),DL(Deep Learning)**
+- 🌱**AI(Artificial Intelligence),DL(Deep Learning, Data Science,  Data Analysis)**
 
-- 💬 Ask me about **Python,Django,ML,SQL.....**
 
 - 📫 How to reach me **roshanbahetwar017@gmail.com**
-
-- 📄 Know about my experiences [📄 Know about my experiences [Checkout my jobstreet profile]]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
