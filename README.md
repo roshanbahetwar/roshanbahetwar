@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanbahetwar&label=Profile%20views&color=0e75b6&style=flat" alt="roshanbahetwar" /> </p>
 
-- 🔭 I’m currently working on **OSS Provisioning and Activation Inventory Management**
-
 - 🌱 I’m currently learning **AI(Artificial Intelligence),DL(Deep Learning)**
 
 - 💬 Ask me about **Python,Django,ML,SQL.....**
